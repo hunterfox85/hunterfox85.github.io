@@ -21,7 +21,7 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Hunterfox Lab                          # the main title
+title: Hunterfox                         # the main title
 
 tagline: Documentation for my homelab   # it will display as the sub-title
 
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/1530622476811743234/ftPT8pCc_400x400.jpg
+avatar: https://pbs.twimg.com/profile_images/1530692127402905600/aYN5AosT_400x400.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
